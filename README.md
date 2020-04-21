@@ -50,11 +50,11 @@ yarn install
 Test The App is it running right:
 
 ```
-npm start
+npm dev
 
 or
 
-yarn start
+yarn dev
 ```
 
 
