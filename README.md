@@ -2,6 +2,11 @@
 
 Super sample App for leaning.
 
+# Live 
+
+* [Live Demo](https://person-js.herokuapp.com/)
+
+
 ![image](./gif.gif)
 
 ## Getting Started
@@ -52,10 +57,6 @@ or
 yarn start
 ```
 
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
