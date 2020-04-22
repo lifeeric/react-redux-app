@@ -63,6 +63,7 @@ yarn dev
 * [React](http://reactjs.org/) - The web framework used
 * [Redux](https://redux.js.org/) - State Management
 * [Npm](https://www.npmjs.com/) - Dependency Management
+* [Material-ui](material-ui.com) - React UI framework
 
 
 
